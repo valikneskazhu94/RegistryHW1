@@ -1,0 +1,9 @@
+c:\users\mak\documents\visual studio 2017\Projects\RegistryD\RegistryD\bin\Debug\RegistryD.exe.config
+c:\users\mak\documents\visual studio 2017\Projects\RegistryD\RegistryD\bin\Debug\RegistryD.exe
+c:\users\mak\documents\visual studio 2017\Projects\RegistryD\RegistryD\bin\Debug\RegistryD.pdb
+c:\users\mak\documents\visual studio 2017\Projects\RegistryD\RegistryD\obj\Debug\RegistryD.csprojResolveAssemblyReference.cache
+c:\users\mak\documents\visual studio 2017\Projects\RegistryD\RegistryD\obj\Debug\RegistryD.Form1.resources
+c:\users\mak\documents\visual studio 2017\Projects\RegistryD\RegistryD\obj\Debug\RegistryD.Properties.Resources.resources
+c:\users\mak\documents\visual studio 2017\Projects\RegistryD\RegistryD\obj\Debug\RegistryD.csproj.GenerateResource.Cache
+c:\users\mak\documents\visual studio 2017\Projects\RegistryD\RegistryD\obj\Debug\RegistryD.exe
+c:\users\mak\documents\visual studio 2017\Projects\RegistryD\RegistryD\obj\Debug\RegistryD.pdb
